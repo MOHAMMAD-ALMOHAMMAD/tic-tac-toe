@@ -1,4 +1,4 @@
-// Team members: MOHAMMAD ALMOHAMMAD,Jimaa Maya,Muhammad Nour
+
 let board=[]
 // Initializes and returns an empty 3x3 Tic Tac Toe board
 
