@@ -1,6 +1,6 @@
 # Tic Tac Toe 
 
-###### This ia a tic-tac-toe game made in Javascript which can be played on the console.
+
 
 
 
