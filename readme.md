@@ -13,9 +13,7 @@
 
 3. run the following command from the command prompt/terminal: ```> npm install```
 
-4. make sure to install the readline-sync library by running ```npm install readline-sync``` 
+4. afterwards run the following command from the command prompt/terminal, ```> node tic_tac_toe.js```
 
-5. afterwards run the following command from the command prompt/terminal, ```> node tic_tac_toe.js```
-
-6. Thats it, Enjoy.
+5. Thats it, Enjoy.
 
